@@ -1,0 +1,13 @@
+.student-container {
+  margin: 0.5rem;
+}
+
+.student-container h3 {
+  padding: 10px 0;
+  text-decoration: underline;
+}
+
+.student-container p {
+  line-height: 20px;
+  font-size: 1.1rem;
+}

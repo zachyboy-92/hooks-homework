@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.App {
+  margin: 1rem 15%;
+  background-color: burlywood;
+  padding-bottom: 10px;
+}
